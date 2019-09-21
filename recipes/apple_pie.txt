@@ -1,6 +1,12 @@
 pastry
 butter
 flour
+<<<<<<< HEAD
 sugar
 apples
 
+=======
+sugar 
+apples
+1 tbs cinnamon
+>>>>>>> sahithi
