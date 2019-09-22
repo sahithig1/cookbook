@@ -1,3 +1,4 @@
+salt
 pastry
 butter
 flour
